@@ -6,4 +6,4 @@ I'm currently working on wesbite
 
 I'm know python
 
-I"m currently learning java
+I"m currently learning c#
